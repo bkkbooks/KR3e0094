@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0094/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部五
+  hash: sha256:385bc2d94867d1b606f43bb11ebdc68a3a5579aafe48be2b02b9eb652717f689
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0094_WYG_000-1a, image: WYG0783/WYG0783-0735a.png}
+body:
+  text: 傷寒兼證析義醫家類提要臣等謹案傷寒兼證析義一卷國朝張倬撰倬字飛疇吳江人著醫通之張璐即其父也專論傷寒而挾雜病者分中風虛勞中滿腫脹噎膈反胃内傷宿食咳𠻳咽乾閉塞頭風心腹痛亡血多汗積聚動氣疝氣淋濁瀉痢胎産凡十七種設為問答以發明之按傷寒論所謂合病併病止言六經兼症而不及雜病醫家不明兼證之意往往於脉證參差之際或顧彼而失此或治此而妨彼為害頗深此書一一剖析使治病者不拘于一隅不惑於多岐亦可謂有功於傷寒矣乾隆四十六年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:6dcb4c9a4050dae8c3cd9f0dceaf2fd6e15260f7585b51845166e37f61c41a1c
+metadata:
+  title: 傷寒兼證析義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:08:41.905661'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3e0094/KR3e0094_000.txt
+hash: sha256:2b92214c31a7afb76637fb286fc3545f21a10e70b3dbfd4759db5df523287db9

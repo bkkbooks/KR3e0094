@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3e0094/v1
+canonical_location: https://kanripo.org/bkk/KR3e0094/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒兼證析義
+  date: '2015-08-24 23:08:41.905661'
+  source:
+    repository: kanripo
+    path: KR3e0094
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0094_000.yaml, hash: 'sha256:086f3fd62c972e13267d419ce614512dd5e8d7994d6be75504b4490675941fda'}
+  - {seq: 1, filename: KR3e0094_001.yaml, hash: 'sha256:bfa3fc03fc08b3d8b04ce528490a41786cf0b724b339beae2b568f4ac4cd1582'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0094_000.markers.yaml, hash: 'sha256:473dfa870c7b32a6cb25ed3ce359c3a27222ff54d23e47059b65f047d63bd299'}
+  - {seq: 1, role: markers, filename: assets/KR3e0094_001.markers.yaml, hash: 'sha256:de8bf763d5305fc55c82789e94d7a7afa3be80e7744c74e9f9508ea41d141534'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0094_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 225
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0094_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 26360
+  label: 傷寒兼證析義
+  type: section
+  level: 1
+hash: sha256:9e074ad21105a5074a229b595827ad5568ff9c8e2799f4190082eaa43b46192d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
