@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3e0094_000-WYG.yaml, hash: 'sha256:2b92214c31a7afb76637fb286fc3545f21a10e70b3dbfd4759db5df523287db9'}
   - {seq: 1, filename: KR3e0094_001-WYG.yaml, hash: 'sha256:8299e508d73639fdaa2011230e5e2f14edf749c139be8fd2d6be5169a785a525'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0094_000-WYG.markers.yaml, hash: 'sha256:66ee3c61349b0c6c8cbd78dc610dcd2d87b1754b21ff6ddb67b549508bc59b21'}
-  - {seq: 1, role: markers, filename: assets/KR3e0094_001-WYG.markers.yaml, hash: 'sha256:1c97b20551a76f7bdb4a761f0c21012fe51fb81e51d8b56c249e6f3df50eeab0'}
+  - {seq: 0, role: markers, filename: assets/KR3e0094_000-WYG.markers.yaml, hash: 'sha256:0a70bad66f07d60e4bdd91927bd592930b77e91888be4506a8057942b7f18db0'}
+  - {seq: 1, role: markers, filename: assets/KR3e0094_001-WYG.markers.yaml, hash: 'sha256:b9ef2e8b63c8e99016fedd6a3877610669a078cb5738637731c784356666202a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 傷寒兼證析義
   type: section
   level: 1
-hash: sha256:cea210cc595941424030bcd5b2a5c7be55147234bdaed08ffc73e9a4255b2229
+hash: sha256:2f6887686ac3fa6eb410b4a73159e83b12d0cc6ba6b8a8941d155c1cc1e0c7b1
